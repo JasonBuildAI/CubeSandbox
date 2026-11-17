@@ -1,0 +1,1 @@
+- claim: cx7f3a | 2026-11-17T14:05:00Z | 旧PR: none | 缺陷: BUILT template-image jobs are ignored when counting shared rootfs artifact references, so deleting another template can delete an in-flight artifact | 文件: CubeMaster/pkg/templatecenter/artifact_lifecycle.go,CubeMaster/pkg/templatecenter/artifact_lifecycle_test.go | issue: #待回填 | pr: #待回填
